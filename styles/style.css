@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+    margin: 10px;
+}
+
+.content {
+    text-align: center;
+}
+
+.content__curr-section {
+}
+
+.content__curr-name-value {
+}
